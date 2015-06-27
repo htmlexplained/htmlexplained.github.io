@@ -1,11 +1,34 @@
 # Site settings
 title: HTML Explained
 email: htmlexplained@gmail.com
-description: Blog About Frontend Development.
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: A blog about Frontend Development.
 url: "http://htmlexplained.github.io/" # the base hostname & protocol for your site
 twitter_username: htmlexplained
-github_username:  htmlexplained
+paginate: 3
 
 # Build settings
 markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Tristan Soriaga
+      layout: "post"
+      category: Frontend Development
+      comments: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+
+
+
+
+

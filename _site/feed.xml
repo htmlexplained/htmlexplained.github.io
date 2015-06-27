@@ -1,40 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 00:12:15 +0800</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 00:12:15 +0800</lastBuildDate>
+    <title>HTML Explained</title>
+    <description>A blog about Frontend Development.</description>
+    <link>http://htmlexplained.github.io//</link>
+    <atom:link href="http://htmlexplained.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Jun 2015 19:40:27 +0800</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 19:40:27 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Camp Sass</title>
+        <description>&lt;p&gt;Camp Sass is a one-day, one-track Sass conference held in Atlanta, GA. It’s hosted by Hampton Catlin, the inventor of Sass!&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;At this year’s conference, I had lots of fun, learned a ton, and met many talented web designers and developers.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 27 Jun 2015 08:11:43 +0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/06/27/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/06/27/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 29 Apr 2015 17:45:36 +0800</pubDate>
+        <link>http://htmlexplained.github.io//welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://htmlexplained.github.io//welcome-to-jekyll</guid>
         
         
-        <category>jekyll</category>
+        <category>frontend development</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>SassConf</title>
+        <description>&lt;p&gt;SassConf is an awesome conference for front-end developers and designers who love Sass and are passionate about building a better, more beautiful web.&lt;/p&gt;
+
+&lt;p&gt;This year, the conference is in Austin, Texas!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 +0800</pubDate>
+        <link>http://htmlexplained.github.io//sass-conf</link>
+        <guid isPermaLink="true">http://htmlexplained.github.io//sass-conf</guid>
+        
+        
+        <category>frontend development</category>
+        
+      </item>
+    
+      <item>
+        <title>CSS Summit</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://environmentsforhumans.com/2015/css-summit/&quot;&gt;CSS Summit&lt;/a&gt; brings together some of the web’s most notable experts for an all-new, three-day online conference. This year’s event includes a live CSS and Sass conference, as well as an SVG, Sass, and advanced CSS track.&lt;/p&gt;
+
+&lt;p&gt;I’m also speaking about Sass on day two!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2015 00:00:00 +0800</pubDate>
+        <link>http://htmlexplained.github.io//css-summit</link>
+        <guid isPermaLink="true">http://htmlexplained.github.io//css-summit</guid>
+        
+        
+        <category>frontend development</category>
+        
+      </item>
+    
+      <item>
+        <title>Front-end Design Conf</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://frontenddesignconference.com/&quot;&gt;Front-End Design Conference&lt;/a&gt; is an awesome conference for web professionals who love their community, the web, and learning. It’s a 2-day conference held every year in St. Petersburg, Fl.  This year’s list of speakers is impressive. Some of them are Chris Coyier, James White, Sophie Shepherd, and more!&lt;/p&gt;
+
+&lt;p&gt;The day before the main conference, they’re also running several full-day workshops on web animation, SMACSS, and frontend tooling.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 00:00:00 +0800</pubDate>
+        <link>http://htmlexplained.github.io//front-end-conf</link>
+        <guid isPermaLink="true">http://htmlexplained.github.io//front-end-conf</guid>
+        
+        
+        <category>frontend development</category>
+        
+      </item>
+    
+      <item>
+        <title>Converge</title>
+        <description>&lt;p&gt;Converge assembles some of the best speakers in the industry to inform and inspire you! It’s for the love of the web and the love of our community. This year’s event includes a full schedule of keynotes, sessions, and workshops.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://convergese.com/&quot;&gt;Check it out!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 00:00:00 +0800</pubDate>
+        <link>http://htmlexplained.github.io//converge</link>
+        <guid isPermaLink="true">http://htmlexplained.github.io//converge</guid>
+        
+        
+        <category>frontend development</category>
         
       </item>
     
