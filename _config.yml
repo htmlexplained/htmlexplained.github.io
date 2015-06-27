@@ -1,11 +1,11 @@
 # Site settings
 title: HTML Explained
 email: htmlexplained@gmail.com
-description: Blog about Frontend development.
+description: Blog About Frontend Development.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://htmlexplained.github.io/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: htmlexplained
+github_username:  htmlexplained
 
 # Build settings
 markdown: kramdown
